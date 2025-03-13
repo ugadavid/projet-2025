@@ -1,3 +1,6 @@
+![Nuage](/nuage.png)
+
+
 - Stage
 - Mémoire
 - TQG
