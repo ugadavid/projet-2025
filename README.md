@@ -8,3 +8,5 @@
 - Anglais
 - Preply
 - A. films
+- [Midjourney](https://www.midjourney.com/) ([klingai](https://klingai.com/))
+
